@@ -1,4 +1,4 @@
-````md id="z9x4kt"
+
 # 🔥 Real-Time Fire Detection Using YOLOv8, OpenCV & Deep Learning
 
 <div align="center">
@@ -449,4 +449,3 @@ Passionate about:
 If you found this repository useful, consider giving it a star ⭐
 
 </div>
-```
